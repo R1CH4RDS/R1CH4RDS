@@ -1,16 +1,13 @@
-### Hi there 👋
+# Welcome to my profile
 
-<!--
-**R1CH4RDS/R1CH4RDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Richard Paulo dos Santos ✨
 
-Here are some ideas to get you started:
+I'm a young apprentice, on information systems programmer, by Malwee company 💻
+ 
+From SP living in SC/Jaraguá do Sul ✈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# "Se você consegue sonhar, Você também consegue fazer." 💡
+
+Reach me out 👇🏻
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_richards__/)](https://www.instagram.com/_richards__/) 
