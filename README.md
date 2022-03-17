@@ -13,3 +13,5 @@ From SP living in SC/Jaraguá do Sul ✈
 Reach me out 👇🏻
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_richards__/)](https://www.instagram.com/_richards__/) 
+
+![Snake animation](https://github.com/R1CH4RDS/R1CH4RDS/blob/output/github-contribution-grid-snake.svg)
