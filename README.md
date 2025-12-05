@@ -4,7 +4,7 @@
 
 My name is Richard Paulo dos Santos ✨
 
-I'm a young apprentice, on information systems programmer, by Malwee company 💻
+I'm a young apprentice, on information systems programmer, by VAGABUNDOS ANONIMOS 💻
  
 From SP living in SC/Jaraguá do Sul ✈
 
