@@ -12,4 +12,7 @@ From SP living in SC/Jaraguá do Sul ✈
 
 Reach me out 👇🏻
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_richards__/)](](https://www.instagram.com/richards4l/)) 
+<div>
+ <a href="https://www.instagram.com/richards4l/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
