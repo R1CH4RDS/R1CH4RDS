@@ -8,7 +8,7 @@ I'm a young apprentice, on information systems programmer, by RSHUB 💻
  
 From SP living in SC/Jaraguá do Sul ✈
 
-# "Se você consegue sonhar, Você também consegue fazer." 💡
+# "Building products, not just code." 💡
 
 Reach me out 👇🏻
 
