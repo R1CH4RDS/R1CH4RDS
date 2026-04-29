@@ -4,7 +4,7 @@
 
 My name is Richard Paulo dos Santos ✨
 
-I'm a young apprentice, on information systems programmer, by VAGABUNDOS ANONIMOS 💻
+I'm a young apprentice, on information systems programmer, by RSHUB 💻
  
 From SP living in SC/Jaraguá do Sul ✈
 
